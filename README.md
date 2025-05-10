@@ -20,7 +20,7 @@ c. IDE
 
 ## 2. Running the Application
 
-The program should be started from Program.cs class.
+The application starts from the *Program.cs* class.
 
 To run the project in Rider, configure it as follows:
 -  *Name:* Library_Management_System
@@ -44,7 +44,7 @@ The Mystery Box is a unique feature designed to suggest books for a specific per
 *How it works:*
 -  The admin selects a person from the system (based on the person's CNP).
 -  The application suggests books based on the genres and authors of the books previously borrowed by that person.
--  The generated books appear in a checklist. The admin can view detailed information for each and choose which to add to the borrowing list.
+-  The generated books appear in a checklist. The admin can view details for each and select which ones to add to the borrowing list.
 -  An animated "chest" opens visually when books are successfully generated, enhancing the experience.
 
 **📚 How Are Mystery Box Books Selected?**
