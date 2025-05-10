@@ -31,7 +31,7 @@ To run the project in Rider, configure it as follows:
 -  *Working directory:* .../bin/Debug/net9.0-windows
 -  *Environment variables:* (leave empty)
 -  *.NET runtime arguments:* (leave empty)
--  *Runtime:* <Automatic>
+-  *Runtime:* Automatic
 -  *Use external console:* unchecked
 -  *Open browser / URL:* (leave empty)
 -  *Before launch*: check **Activate tool window**
