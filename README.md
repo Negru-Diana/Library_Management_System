@@ -74,7 +74,7 @@ The books suggested in the Mystery Box are chosen using a smart recommendation s
 
 -  Finally, the system selects the requested number of top-scoring books to suggest.
 
-If there aren't enough matched books, the rest are filled randomly from the pool of available books not yet borrowed by the person.
+If there aren't enough matched books (or the person does not have a borrow history), the rest are filled randomly from the pool of available books not yet borrowed by the person.
 
 
 This feature provides a personalized and engaging way to discover books, especially for frequent readers.
