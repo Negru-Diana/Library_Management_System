@@ -52,7 +52,7 @@ The books suggested in the Mystery Box are chosen using a smart recommendation s
 
 ### 1. Filter Available Books:
 
- -  The system first filters out books that are already borrowed by the person or are currently unavailable (i.e., no remaining copies).
+ -  The system first filters out books that are already borrowed by the person or are currently unavailable (no remaining copies).
 
 ### 2. Score Each Book:
 
